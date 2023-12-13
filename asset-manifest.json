@@ -1,0 +1,43 @@
+{
+  "files": {
+    "main.css": "/static/css/main.ed1e1897.css",
+    "main.js": "/static/js/main.68c85d01.js",
+    "222.css": "/222.css",
+    "static/css/222.fa0989ce.chunk.css": "/static/css/222.fa0989ce.chunk.css",
+    "static/js/222.1c9c4d6b.chunk.js": "/static/js/222.1c9c4d6b.chunk.js",
+    "459.css": "/459.css",
+    "static/css/459.9755ae11.chunk.css": "/static/css/459.9755ae11.chunk.css",
+    "static/js/459.f880a1c8.chunk.js": "/static/js/459.f880a1c8.chunk.js",
+    "47.css": "/47.css",
+    "static/css/47.33d39853.chunk.css": "/static/css/47.33d39853.chunk.css",
+    "static/js/47.11feb594.chunk.js": "/static/js/47.11feb594.chunk.js",
+    "604.css": "/604.css",
+    "static/css/604.29696010.chunk.css": "/static/css/604.29696010.chunk.css",
+    "static/js/604.deada3ed.chunk.js": "/static/js/604.deada3ed.chunk.js",
+    "90.css": "/90.css",
+    "static/css/90.846b4389.chunk.css": "/static/css/90.846b4389.chunk.css",
+    "static/js/90.368ed184.chunk.js": "/static/js/90.368ed184.chunk.js",
+    "651.css": "/651.css",
+    "static/css/651.9d9f2a63.chunk.css": "/static/css/651.9d9f2a63.chunk.css",
+    "static/js/651.450f18d9.chunk.js": "/static/js/651.450f18d9.chunk.js",
+    "530.css": "/530.css",
+    "static/css/530.5645de4a.chunk.css": "/static/css/530.5645de4a.chunk.css",
+    "static/js/530.be1eae48.chunk.js": "/static/js/530.be1eae48.chunk.js",
+    "788.css": "/788.css",
+    "static/css/788.846b4389.chunk.css": "/static/css/788.846b4389.chunk.css",
+    "static/js/788.669fce67.chunk.js": "/static/js/788.669fce67.chunk.js",
+    "static/js/529.2dbd4e27.chunk.js": "/static/js/529.2dbd4e27.chunk.js",
+    "static/js/686.6c6b78be.chunk.js": "/static/js/686.6c6b78be.chunk.js",
+    "static/js/506.235ae95e.chunk.js": "/static/js/506.235ae95e.chunk.js",
+    "static/media/waitpage.png": "/static/media/waitpage.0a2842939dad26c0f878.png",
+    "static/media/header_logo.svg": "/static/media/header_logo.be628742acb1ab53f4eaf0e1e1d1a142.svg",
+    "static/media/document.svg": "/static/media/document.6aa7b65118813c453b30049ab87a2f13.svg",
+    "index.html": "/index.html",
+    "static/media/wenhao.svg": "/static/media/wenhao.e07c8b939745fdfaa37f7f2b0a707b27.svg"
+  },
+  "entrypoints": [
+    "main.css",
+    "static/css/main.ed1e1897.css",
+    "static/js/main.68c85d01.js"
+  ]
+}
